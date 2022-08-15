@@ -22,3 +22,7 @@ foreach ($repo in $response.value)
     git clone $repoUrl
     
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
